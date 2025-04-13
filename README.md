@@ -3,7 +3,7 @@ Reeva301/aviwe.github.io is a ✨ special ✨ repository because its `README.md`
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Aviwe</h1>
-<h3 align="center">A professional BUSINESS SCIENTIST and DATA ANALYST</h3>
+<h3 align="center">A professional BUSINESS SCIENTIST AND DATA ANALYST</h3>
 
 <h3 align="center">- 🔭 I’m currently learning **Ecomometrics and Data science**
 
