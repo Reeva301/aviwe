@@ -16,4 +16,4 @@ I’m currently:
 - [Email](dec.avee@gmail.com)  
 
 ## 📊 GitHub Stats:  
-![Chukwudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuqudee&show_icons=true&theme=radical)  
+![Chukwudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reeva301&show_icons=true&theme=radical)  
